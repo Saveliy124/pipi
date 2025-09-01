@@ -4,4 +4,4 @@
 Этот репозиторий является каркасом для будущего веб-приложения.
 
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://saveliy124.github.io/pipi/)
+- [Публичная страница на GitHub Pages](https://saveliy124.github.io/pipi/src/index.html)
